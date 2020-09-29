@@ -7,6 +7,6 @@ MATLAB Toolbox for Fitting Generalized Linear Models with Penalties (called: "pe
 
 **WorkingExample.m** - This code generates the data and presents how to use our method. We recommend to open this script for a quick start.
 
-**griPEER_results.m** - Starts from the data provided in **data** directory to generate the real data analysis which we reported in the preprint. The path to **data** directory needs to be provided at the beginning of the srcipt, the outputs are also saved there.
+**griPEER_results.m** - Starts from the data provided in **data** directory to generate the real data analysis which we reported in the preprint which is available at bioRxiv (https://www.biorxiv.org/content/10.1101/322420v1.full).  The path to **data** directory needs to be provided at the beginning of the srcipt, the outputs are also saved there.
 
-**generatePlot.R** - R code for generating the plot **HIV_males_results.pdf** presented in https://www.jstatsoft.org/article/view/v072i06. The path to **data** directory needs to be provided at the beginning of the srcipt
+**generatePlot.R** - R code for generating the plot **HIV_males_results.pdf** presented in the preprint. The path to **data** directory needs to be provided at the beginning of the srcipt
