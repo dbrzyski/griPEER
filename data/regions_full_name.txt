@@ -1,0 +1,66 @@
+(L) Banks superior temporal sulcus
+(L) Caudal anterior-cingulate cortex
+(L) Caudal middle frontal gyrus
+(L) Cuneus cortex
+(L) Entorhinal cortex
+(L) Fusiform gyrus
+(L) Inferior parietal cortex
+(L) Inferior temporal gyrus
+(L) Isthmus_cingulate cortex
+(L) Lateral occipital cortex
+(L) Lateral orbital frontal cortex
+(L) Lingual gyrus
+(L) Medial orbital frontal cortex
+(L) Middle temporal gyrus
+(L) Parahippocampal gyrus
+(L) Paracentral lobule
+(L) Pars opercularis
+(L) Pars orbitalis
+(L) Pars triangularis
+(L) Pericalcarine cortex
+(L) Postcentral gyrus
+(L) Posterior-cingulate cortex
+(L) Precentral gyrus
+(L) Precuneus cortex
+(L) Rostral anterior cingulate cortex
+(L) Rostral middle frontal gyrus
+(L) Superior frontal gyrus
+(L) Superior parietal cortex
+(L) Superior temporal gyrus
+(L) Supramarginal gyrus
+(L) Frontal pole
+(L) Temporal pole
+(L) Transverse temporal cortex
+(R) Banks superior temporal sulcus
+(R) Caudal anterior-cingulate cortex
+(R) Caudal middle frontal gyrus
+(R) Cuneus cortex
+(R) Entorhinal cortex
+(R) Fusiform gyrus
+(R) Inferior parietal cortex
+(R) Inferior temporal gyrus
+(R) Isthmus_cingulate cortex
+(R) Lateral occipital cortex
+(R) Lateral orbital frontal cortex
+(R) Lingual gyrus
+(R) Medial orbital frontal cortex
+(R) Middle temporal gyrus
+(R) Parahippocampal gyrus
+(R) Paracentral lobule
+(R) Pars opercularis
+(R) Pars orbitalis
+(R) Pars triangularis
+(R) Pericalcarine cortex
+(R) Postcentral gyrus
+(R) Posterior-cingulate cortex
+(R) Precentral gyrus
+(R) Precuneus cortex
+(R) Rostral anterior cingulate cortex
+(R) Rostral middle frontal gyrus
+(R) Superior frontal gyrus
+(R) Superior parietal cortex
+(R) Superior temporal gyrus
+(R) Supramarginal gyrus
+(R) Frontal pole
+(R) Temporal pole
+(R) Transverse temporal cortex
